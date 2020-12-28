@@ -1,0 +1,11 @@
+body{
+    height: 95vh;
+    width: 95;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(19, 19, 19);
+    color: purple;
+}
