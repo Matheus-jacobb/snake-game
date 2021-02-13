@@ -6,3 +6,12 @@ Projeto desenvolvido durante bootcamp HTML Web Developer
 
 ## Tecnologias
 * Código e Interface: **HTML5**, **CSS3**, **JavaScript**
+  
+ ## Extras
+  - Color Theme Modify
+ 
+ ### [Pré-visualização]
+  ![img](img/Screenshot-snakegame.png)
+
+### Click to enjoy !
+https://matheus-jacobb.github.io/snake-game/.
