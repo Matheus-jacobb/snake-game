@@ -11,7 +11,7 @@ Projeto desenvolvido durante bootcamp HTML Web Developer
   - Color Theme Modify
  
  ### [Pré-visualização]
-  ![img](img/Screenshot-snakegame.png)
+  ![img](Screenshot-snakegame.png)
 
 ### Click to enjoy !
 https://matheus-jacobb.github.io/snake-game/.
